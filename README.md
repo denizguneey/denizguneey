@@ -16,3 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=denizguneey&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=denizguneey&limit=5&theme=radical&combine_all_yearly_contributions=true)
