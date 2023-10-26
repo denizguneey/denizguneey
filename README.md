@@ -8,6 +8,14 @@
 </br>
 🌿 I'm learning Computer Vision Methods
 
+name: Half-year calendar
+uses: denizguneey/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  
 ### 🌐 Social: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-g%C3%BCney-401b2b1ba/) 
 
 ### 🔎 Tech Stack:
