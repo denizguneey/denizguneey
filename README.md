@@ -20,3 +20,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_blue)
 
+<img src="https://raw.githubusercontent.com/denizguneey/denizguneey/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5300">
