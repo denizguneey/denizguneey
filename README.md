@@ -1,3 +1,5 @@
+<img src="[gorsel-lin](https://github.com/denizguneey/denizguneey/blob/main/1_kCuNL07RRQvPWiiaTpWARg.gif)k" width="auto">
+
 ### 📜 ABOUT ME 
 
 📌 M.Sc Math 
