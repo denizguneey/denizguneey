@@ -7,4 +7,4 @@
 🌿 I'm learning Computer Vision Methods
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=denizguneey&show_icons=true&theme=radical)
