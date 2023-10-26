@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/denizguneey/denizguneey/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5300">
-<font face="Times New Roman">About me</font>
-</br>
+
 ## 📜 About Me
 
 📌 M.Sc Math 
 </br>
+
 📚 I’m currently studying on Machine Learning Fundamentals
 </br>
 🌿 I'm learning Computer Vision Methods
