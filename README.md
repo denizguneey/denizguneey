@@ -1,4 +1,4 @@
-<img src="[(https://github.com/denizguneey/denizguneey/blob/main/1_kCuNL07RRQvPWiiaTpWARg.gif)]" width="auto">
+<img src="https://raw.githubusercontent.com/denizguneey/denizguneey/main/1_kCuNL07RRQvPWiiaTpWARg.gif" width="auto">
 
 ### 📜 ABOUT ME 
 
