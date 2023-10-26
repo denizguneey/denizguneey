@@ -3,7 +3,9 @@
 ### 📜 ABOUT ME 
 
 📌 M.Sc Math 
+</br>
 📚 I’m currently studying on Machine Learning Fundamentals
+</br>
 🌿 I'm learning Computer Vision Methods
 
 ## 🌐 Social: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-g%C3%BCney-401b2b1ba/) 
