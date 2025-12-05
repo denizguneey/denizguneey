@@ -2,7 +2,7 @@
 
 ## 📜 About Me
 
-📌 M.Sc Math 
+📌 pHd Math 
 </br>
 
 📚 I’m currently studying on Machine Learning Fundamentals
