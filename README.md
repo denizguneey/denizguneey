@@ -24,4 +24,4 @@ Spectral graph theory · Computational mathematics · Machine learning · Comput
 
 ## Links
 
-[ORCID](https://orcid.org/) · [LinkedIn](https://www.linkedin.com/in/deniz-g%C3%BCney-401b2b1ba) · [ResearchGate](https://www.researchgate.net/profile/Deniz-Gueney-6) · [Kaggle](https://www.kaggle.com/denizgneymath) · [Medium](https://medium.com/@denizpekinceguney)
+[ORCID](https://orcid.org/0009-0008-1548-4454) · [LinkedIn](https://www.linkedin.com/in/deniz-g%C3%BCney-401b2b1ba) · [ResearchGate](https://www.researchgate.net/profile/Deniz-Gueney-6) · [Kaggle](https://www.kaggle.com/denizgneymath) · [Medium](https://medium.com/@denizpekinceguney)
