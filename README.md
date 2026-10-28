@@ -1,5 +1,3 @@
-# Deniz Güney
-
 PhD student in Mathematics · Gazi University · Ankara, Türkiye
 
 Research interests include graph theory and its computational and cryptographic applications, with an emphasis on exact computation for exploring mathematical structures. Currently building foundations in machine learning and computer vision.
